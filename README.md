@@ -1,4 +1,4 @@
 # Codeforces-Problems
-Solutions to Codeforces problems  
+Solutions to Codeforces problems [Site Link](https://codeforces.com/)
 
-[LINK: https://codeforces.com/]
+[My Profile 🦄](https://codeforces.com/profile/kxnyshk)
